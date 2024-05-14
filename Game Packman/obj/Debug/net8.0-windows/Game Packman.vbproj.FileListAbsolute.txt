@@ -30,3 +30,21 @@ C:\Users\ASUS\Downloads\71210727\71210727\Game Packman\Game Packman\obj\Debug\ne
 C:\Users\ASUS\Downloads\71210727\71210727\Game Packman\Game Packman\obj\Debug\net8.0-windows\Game Packman.pdb
 C:\Users\ASUS\Downloads\71210727\71210727\Game Packman\Game Packman\obj\Debug\net8.0-windows\Game Packman.genruntimeconfig.cache
 C:\Users\ASUS\Downloads\71210727\71210727\Game Packman\Game Packman\obj\Debug\net8.0-windows\ref\Game Packman.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\bin\Debug\net8.0-windows\Game Packman.exe
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\bin\Debug\net8.0-windows\Game Packman.deps.json
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\bin\Debug\net8.0-windows\Game Packman.runtimeconfig.json
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\bin\Debug\net8.0-windows\Game Packman.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\bin\Debug\net8.0-windows\Game Packman.pdb
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\obj\Debug\net8.0-windows\Game_Packman.Form1.resources
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\obj\Debug\net8.0-windows\Game_Packman.Resources.resources
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\obj\Debug\net8.0-windows\Game Packman.vbproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\obj\Debug\net8.0-windows\Game Packman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\obj\Debug\net8.0-windows\Game Packman.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\obj\Debug\net8.0-windows\Game Packman.AssemblyInfo.vb
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\obj\Debug\net8.0-windows\Game Packman.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\obj\Debug\net8.0-windows\Game Packman.sourcelink.json
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\obj\Debug\net8.0-windows\Game Packman.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\obj\Debug\net8.0-windows\refint\Game Packman.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\obj\Debug\net8.0-windows\Game Packman.pdb
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\obj\Debug\net8.0-windows\Game Packman.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\pt 12\PackMan\Game Packman\obj\Debug\net8.0-windows\ref\Game Packman.dll

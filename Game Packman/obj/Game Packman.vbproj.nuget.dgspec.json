@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Downloads\\71210727\\71210727\\Game Packman\\Game Packman\\Game Packman.vbproj": {}
+    "C:\\Users\\ASUS\\OneDrive - Duta Wacana Christian University\\Documents\\6th semester\\Pemrograman Desktop\\pt 12\\PackMan\\Game Packman\\Game Packman.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Downloads\\71210727\\71210727\\Game Packman\\Game Packman\\Game Packman.vbproj": {
+    "C:\\Users\\ASUS\\OneDrive - Duta Wacana Christian University\\Documents\\6th semester\\Pemrograman Desktop\\pt 12\\PackMan\\Game Packman\\Game Packman.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\71210727\\71210727\\Game Packman\\Game Packman\\Game Packman.vbproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive - Duta Wacana Christian University\\Documents\\6th semester\\Pemrograman Desktop\\pt 12\\PackMan\\Game Packman\\Game Packman.vbproj",
         "projectName": "Game Packman",
-        "projectPath": "C:\\Users\\ASUS\\Downloads\\71210727\\71210727\\Game Packman\\Game Packman\\Game Packman.vbproj",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive - Duta Wacana Christian University\\Documents\\6th semester\\Pemrograman Desktop\\pt 12\\PackMan\\Game Packman\\Game Packman.vbproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Downloads\\71210727\\71210727\\Game Packman\\Game Packman\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\OneDrive - Duta Wacana Christian University\\Documents\\6th semester\\Pemrograman Desktop\\pt 12\\PackMan\\Game Packman\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

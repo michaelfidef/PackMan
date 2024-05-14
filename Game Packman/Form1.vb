@@ -28,14 +28,14 @@ Public Class Form1
     Dim oldpacy = 0
     Dim lives As Integer = 3
     'deklarasi sprite citra yang digunakan
-    Dim wall As Image = Image.FromFile("C:\Users\ASUS\Downloads\71210727\71210727\aset_game_pakman\bata.png")
-    Dim way As Image = Image.FromFile("C:\Users\ASUS\Downloads\71210727\71210727\aset_game_pakman\rumput.png")
-    Dim pac As Image = Image.FromFile("C:\Users\ASUS\Downloads\71210727\71210727\aset_game_pakman\pakman.png")
-    Dim enm As Image = Image.FromFile("C:\Users\ASUS\Downloads\71210727\71210727\aset_game_pakman\hantu3.png")
-    Dim enm2 As Image = Image.FromFile("C:\Users\ASUS\Downloads\71210727\71210727\aset_game_pakman\hantu1.png")
-    Dim enm3 As Image = Image.FromFile("C:\Users\ASUS\Downloads\71210727\71210727\aset_game_pakman\hantu2.png")
-    Dim goal As Image = Image.FromFile("C:\Users\ASUS\Downloads\71210727\71210727\aset_game_pakman\omah.jpg")
-    Dim lifeSprite As Image = Image.FromFile("C:\Users\ASUS\Downloads\71210727\71210727\aset_game_pakman\heart.png")
+    Dim wall As Image = My.Resources.bata
+    Dim way As Image = My.Resources.rumput
+    Dim pac As Image = My.Resources.pakman
+    Dim enm As Image = My.Resources.hantu3
+    Dim enm2 As Image = My.Resources.hantu1
+    Dim enm3 As Image = My.Resources.hantu2
+    Dim goal As Image = My.Resources.omah
+    Dim lifeSprite As Image = My.Resources.heart
 
 
     Private Sub Redraw()
@@ -69,22 +69,22 @@ Public Class Form1
             Case Keys.Up
                 If map(pacy - 1, pacx) = 1 Then
                     pacy = pacy - 1
-                    pac = Image.FromFile("C:\Users\ASUS\Downloads\71210727\71210727\aset_game_pakman\pakman4.png")
+                    pac = My.Resources.pakman4
                 End If
             Case Keys.Down
                 If map(pacy + 1, pacx) = 1 Then
                     pacy = pacy + 1
-                    pac = Image.FromFile("C:\Users\ASUS\Downloads\71210727\71210727\aset_game_pakman\pakman2.png")
+                    pac = My.Resources.pakman2
                 End If
             Case Keys.Right
                 If map(pacy, pacx + 1) = 1 Then
                     pacx = pacx + 1
-                    pac = Image.FromFile("C:\Users\ASUS\Downloads\71210727\71210727\aset_game_pakman\pakman.png")
+                    pac = My.Resources.pakman
                 End If
             Case Keys.Left
                 If map(pacy, pacx - 1) = 1 Then
                     pacx = pacx - 1
-                    pac = Image.FromFile("C:\Users\ASUS\Downloads\71210727\71210727\aset_game_pakman\pakman3.png")
+                    pac = My.Resources.pakman3
                 End If
         End Select
         cekEnemies()
@@ -176,19 +176,13 @@ Public Class Form1
             MsgBox("Game Over!")
             ResetGame()
         Else
-            ResetPosisi()
+            Redraw()
         End If
     End Sub
 
     Private Sub ResetGame()
         lives = 3
-        Redraw()
-        ResetPosisi()
-    End Sub
-
-    Private Sub ResetPosisi()
-        pacx = 1
-        pacy = 1
+        Timer1.Enabled = True
         Redraw()
     End Sub
 End Class

@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Game Packman"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2f97245d6648d18f15b201e514aa8bbecdc7d70"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Game Packman"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Game Packman"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

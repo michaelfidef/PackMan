@@ -30,6 +30,7 @@ Partial Class Form1
         ' 
         ' Timer1
         ' 
+        Timer1.Enabled = True
         ' 
         ' PictureBox1
         ' 
